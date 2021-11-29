@@ -1,6 +1,6 @@
 {
   "name": "reactexperiments",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Repo for performing experiments on React",
   "main": "index.js",
   "scripts": {
