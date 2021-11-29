@@ -1,0 +1,23 @@
+{
+  "name": "reactexperiments",
+  "version": "1.0.0",
+  "description": "Repo for performing experiments on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasib-sureify/ReactExperiments.git"
+  },
+  "keywords": [
+    "test",
+    "experiment"
+  ],
+  "author": "wasib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasib-sureify/ReactExperiments/issues"
+  },
+  "homepage": "https://github.com/wasib-sureify/ReactExperiments#readme"
+}
